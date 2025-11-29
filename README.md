@@ -1,54 +1,100 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm <span style="color:#4A90E2">Kartikey Gupta</span></h1>
+<h3 align="center">Backend Lead • GenAI | Agentic AI | FastAPI | RAG Architect</h3>
 
-<!--
-**kartikey071999/kartikey071999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🔗 <a href="https://inquisitive-cajeta-5a3397.netlify.app" target="_blank"><b>Portfolio</b></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kartikey071999&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h1 align="center">Hi 👋, I'm Kartikey Gupta</h1>
-<h3 align="center">A developer and a competitive programmer from India</h3>
+## 🚀 About Me
+Backend Lead & GenAI Engineer specializing in scalable backend systems, RAG architectures, and agentic AI workflows.  
+Focused on clean engineering, production-grade AI systems, and cloud-native development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikey071999&label=Profile%20views&color=0e75b6&style=flat" alt="kartikey071999" /> </p>
+---
 
+## 💼 Professional Summary
+- 3+ years backend & AI engineering  
+- Leading **6-member backend + AI team**  
+- Architect of **AI Agent Marketplace** & **RAG pipeline**  
+- Experience with FastAPI, Azure, LangChain, Gemini, OpenAI  
+- Strong skills in architecture, modular systems, and leadership  
 
-- 🌱 I’m currently learning **FastAPI**
+---
 
-- 💬 Ask me about **C++, Python, Azure, FastAPI, Competitive programming, Data Structures and Algorithms**
+## 🛠️ Technical Skills
 
-- 📫 How to reach me **kartikey071999@gmail.com**
+### **Languages**
+Python · JavaScript · TypeScript · SQL · Java · C# · Bash
 
-- ⚡ Fun fact **Preaty good Cook and a shy Gamer**
+### **Backend Development**
+FastAPI · Flask · Node.js · Microservices · API Design · Serverless
 
+### **AI / GenAI**
+RAG Architecture · Agentic AI · OpenAI · Gemini · LangChain · Embeddings
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikey071999" alt="kartikey071999" /></a> </p>
+### **Cloud**
+Azure (Functions, ADF, CosmosDB, Blob)  
+AWS (Lambda, DynamoDB)  
+Cloudflare (Workers, Pages)
 
-<h3 align="left">Connect with me:</h3>
+### **Databases**
+MongoDB · PostgreSQL · MySQL · Vector Databases
+
+### **DevOps & Tools**
+Git · GitHub Actions · Docker · Kubernetes · Swagger · Postman
+
+---
+
+## 🔗 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/kartikey-gupta-035a67186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartikey-gupta-035a67186/" height="30" width="40" /></a>
-<a href="[your kaggle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartikey071999" height="30" width="40" /></a>
-<a href="[your codechef]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="your codechef" height="30" width="40" /></a>
-<a href="[your codeforces]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="your codeforces" height="30" width="40" /></a>
-<a href="[your leetcode]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikey071999" height="30" width="40" /></a>
-<a href="[your geeksforgeeks]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kartikey071999" height="30" width="40" /></a>
+  <a href="https://inquisitive-cajeta-5a3397.netlify.app" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=webflow" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/kartikey-gupta-035a67186/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/kartikey071999/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/kartikey071999" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/your_id" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/your_id" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/your_id/practice/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<!-- Add your preferred tools and languages here -->
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kartikey071999&theme=tokyonight&column=6" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikey071999&show_icons=true&locale=en&layout=compact" alt="kartikey071999" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikey071999&show_icons=true&locale=en" alt="kartikey071999" /></p>
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kartikey071999&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey071999&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey071999&" alt="kartikey071999" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey071999&theme=tokyonight" />
+</p>
+
+---
+
+## 🙌 Thanks for Visiting!
+If you find my projects helpful, consider ⭐ starring a repo!
