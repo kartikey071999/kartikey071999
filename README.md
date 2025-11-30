@@ -10,10 +10,7 @@
   </a>
 </p>
 
-...
 
-
-<!-- Banner Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kartikey+Gupta+👋;Backend+Lead+%7C+FastAPI+%7C+GenAI+%7C+RAG+Architect;Welcome+to+my+GitHub+Universe+🚀" />
 </p>
@@ -22,91 +19,76 @@
 
 # 🌟 About Me (Short + Human)
 
-Hi! I'm Kartikey — I build **FastAPI backends**, **GenAI systems**, **agentic AI workflows**, and occasional pieces of chaotic experimental code that somehow work.  
+Hi! I'm Kartikey — I build **FastAPI backends**, **GenAI systems**, **agentic AI workflows**, and occasional chaotic experimental scripts that should not work but do.
 
 If you landed here from my resume, consider this GitHub as:  
-**“The Behind-the-Scenes Footage of Kartikey’s Coding Brain.”**   
-Feel free to explore, break, inspect, or star anything you like ⭐
+**“The behind-the-scenes footage of Kartikey’s brain.”**
 
 ---
 
-# 🧭 Explore My GitHub (Guided Tour)
+# 🧭 Explore My GitHub (Guided Cyberpunk Tour)
 
-Think of this as a **theme park map** — every repo is a ride 🎢
+Think of this page as a **neon-lit tech city map** — each repo is a district.
 
 ---
 
-## 🤖 1. AI & LLM Playground (The Cool Rides)
+## 🤖 1. AI & LLM Playground
 
 ### 🔥 **RAG Processing Hub**
-📌 *Python · FastAPI · Vector DBs · Gemini*  
-The place where I experiment with document chunking, embeddings, vector search, and LLM responses.  
-🔗 https://github.com/kartikey071999/Rag-Processing-Hub
+Python · FastAPI · Vector DBs · Gemini  
+📎 https://github.com/kartikey071999/Rag-Processing-Hub
 
 ---
 
 ### 🕸️ **Website Summarizer Using AI**
-📌 *Scrapes any website → Cleans → Summarises using AI*  
-Your personal “TL;DR this website” button.  
-🔗 https://github.com/kartikey071999/website-summarizer_using_AI
+Scrapes → Cleans → Summarizes  
+📎 https://github.com/kartikey071999/website-summarizer_using_AI
 
 ---
 
 ### 🧞‍♂️ **Personal Helper Chatbot**
-📌 *Local AI chatbot powered by prompts*  
-Like Jarvis… but running locally and slightly more confused.  
-🔗 https://github.com/kartikey071999/Personal-Helper-ChatBot
+Offline mini-Jarvis.  
+📎 https://github.com/kartikey071999/Personal-Helper-ChatBot
 
 ---
 
-## 🧪 2. Backend Experiments (API, FastAPI, Microservices)
+## ⚙️ 2. Backend API Labs
 
 ### 🧩 **API Test Lab**
-📌 *7 types of APIs • fake APIs • mock behaviors • real FastAPI patterns*  
-If APIs had a playground… this repo is it.  
-🔗 https://github.com/kartikey071999/api_test
+7 API types · Fake APIs · Mock Behaviors  
+📎 https://github.com/kartikey071999/api_test
 
 ---
 
 ### 💬 **Chat Web App**
-📌 *JS frontend + FastAPI backend*  
-A minimal chat system I built to test real-time workflows.  
-🔗 https://github.com/kartikey071999/ChatWebApp
+JS frontend + FastAPI backend  
+📎 https://github.com/kartikey071999/ChatWebApp
 
 ---
 
-## 🧠 3. Fun + Nerdy Experiments
+## 🧠 3. Fun Experiments
 
-### 🔢 **Negadecimal Library (OOP Fun Project)**
-📌 *Python class demonstrating OOP + negative-base numbers*  
-A fun experiment to represent numbers in **base -10**.  
-🔗 https://github.com/kartikey071999/NegadecimalLibrary
-
----
-
-## 🪄 4. Beginner Projects (My Origin Story)
-
-### 🌍 **Hello World (Frontend Attempt)**
-📌 My first attempt at HTML/CSS/JS.  
-🔗 https://github.com/kartikey071999/Hello-World
+### 🔢 **Negadecimal Library**
+Python OOP · base -10 representation  
+📎 https://github.com/kartikey071999/NegadecimalLibrary
 
 ---
 
-### ✔️ **To-Do List App**
-📌 *Simple and clean To-Do app*  
-Part of my early learning journey.  
-🔗 https://github.com/kartikey071999/To-Do-List-App
+## 🪄 4. Beginner Zone (Origin Story)
+
+- 🌍 Hello World → https://github.com/kartikey071999/Hello-World  
+- ✔️ To-Do App → https://github.com/kartikey071999/To-Do-List-App  
 
 ---
 
-# ⚙️ Tech Stack I Use  
+# ⚙️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,java,linux,azure,aws,docker,git,github,mongodb,postgres" />
 </p>
 
 ---
 
-# 📈 GitHub Stats (Animated)
+# 📈 GitHub Stats  
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=kartikey071999&show_icons=true&theme=react" />
@@ -119,14 +101,14 @@ Part of my early learning journey.
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kartikey071999&theme=algolia&margin-w=10" />
 </p>
 
 ---
 
-# 📬 Connect With Me  
+# 📬 Connect  
 <p align="center">
   <a href="https://inquisitive-cajeta-5a3397.netlify.app"><img src="https://skillicons.dev/icons?i=webflow" width="40"></a>
   <a href="https://linkedin.com/in/kartikey-gupta-035a67186"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
@@ -137,5 +119,4 @@ Part of my early learning journey.
 ---
 
 # 🎉 Thanks for Visiting!
-If any repo helped or inspired you —  
-⭐ **drop a star, it keeps the dev spirit alive!**  
+If any repo inspired you — ⭐ **drop a star**!
