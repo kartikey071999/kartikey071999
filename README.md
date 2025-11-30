@@ -1,18 +1,19 @@
-# Kartikey Gupta - Cyberpunk GitHub README
+<div align="center">
+
+# Kartikey Gupta
+
+</div>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=0CF7FF&center=true&vCenter=true&width=900&lines=Kartikey+Gupta;Backend+Lead+%7C+GenAI+Engineer+%7C+FastAPI+Wizard;Welcome+to+my+Cyberpunk+GitHub+Terminal+⚡">
+  <img src="kartikey_typing_v2.gif" alt="Typing intro - Kartikey Gupta" />
 </p>
+
 
 <p align="center">
   <a href="https://inquisitive-cajeta-5a3397.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-00F0FF?style=for-the-badge&logo=firefox&logoColor=black">
   </a>
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kartikey+Gupta+👋;Backend+Lead+%7C+FastAPI+%7C+GenAI+%7C+RAG+Architect;Welcome+to+my+GitHub+Universe+🚀" />
 </p>
 
 ---
