@@ -83,14 +83,20 @@ Python OOP · base -10 representation
 
 # 📈 GitHub Stats  
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kartikey071999&show_icons=true&theme=react" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey071999&layout=compact&theme=react" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey071999&theme=react" />
 </p>
+
+<p align="center">
+  <span>
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartikey071999&theme=tokyonight" />
+  </span>
+  <span>
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikey071999&theme=tokyonight" />
+  </span>
+</p>
+
 
 ---
 
@@ -105,7 +111,7 @@ Python OOP · base -10 representation
 <p align="center">
   <a href="https://inquisitive-cajeta-5a3397.netlify.app"><img src="https://skillicons.dev/icons?i=webflow" width="40"></a>
   <a href="https://linkedin.com/in/kartikey-gupta-035a67186"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
-  <a href="https://leetcode.com/u/kartikey071999"><img src="https://skillicons.dev/icons?i=leetcode" width="40"></a>
+  <a href="https://leetcode.com/u/kartikey071999"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
   <a href="mailto:kartikey071999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a>
 </p>
 
