@@ -1,10 +1,3 @@
-<div align="center">
-
-# Kartikey Gupta
-
-</div>
-
-
 <p align="center">
   <img src="kartikey_typing.gif" alt="Typing intro - Kartikey Gupta" />
 </p>
