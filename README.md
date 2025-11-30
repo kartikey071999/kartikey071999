@@ -18,7 +18,7 @@
 
 ---
 
-# 🌟 About Me (Short + Human)
+# 🌟 About Me
 
 Hi! I'm Kartikey — I build **FastAPI backends**, **GenAI systems**, **agentic AI workflows**, and occasional chaotic experimental scripts that should not work but do.
 
@@ -27,9 +27,8 @@ If you landed here from my resume, consider this GitHub as:
 
 ---
 
-# 🧭 Explore My GitHub (Guided Cyberpunk Tour)
+# 🧭 Explore My GitHub 
 
-Think of this page as a **neon-lit tech city map** — each repo is a district.
 
 ---
 
@@ -48,7 +47,7 @@ Scrapes → Cleans → Summarizes
 ---
 
 ### 🧞‍♂️ **Personal Helper Chatbot**
-Offline mini-Jarvis.  
+ 
 📎 https://github.com/kartikey071999/Personal-Helper-ChatBot
 
 ---
