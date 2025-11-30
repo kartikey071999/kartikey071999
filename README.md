@@ -20,6 +20,14 @@ If you landed here from my resume, consider this GitHub as:
 
 ---
 
+
+# ⚙️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,java,linux,azure,aws,docker,git,github,mongodb,postgres" />
+</p>
+
+---
+
 # 🧭 Explore My GitHub 
 
 
@@ -71,13 +79,6 @@ Python OOP · base -10 representation
 
 - 🌍 Hello World → https://github.com/kartikey071999/Hello-World  
 - ✔️ To-Do App → https://github.com/kartikey071999/To-Do-List-App  
-
----
-
-# ⚙️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,java,linux,azure,aws,docker,git,github,mongodb,postgres" />
-</p>
 
 ---
 
