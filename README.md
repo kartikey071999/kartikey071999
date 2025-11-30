@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kartikey_typing.gif" alt="Typing intro - Kartikey Gupta" />
+  <img src="kartikey_typing_v3.gif" alt="Typing intro - Kartikey Gupta" />
 </p>
 
 
